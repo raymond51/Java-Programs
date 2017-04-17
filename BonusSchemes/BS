@@ -1,1 +1,4 @@
-
+a program that works out the amounts to pay out in a digital media company’s bonus scheme.
+ Each employee is rated out of 10 by the bonus committee on two factors: profit the person
+made and a rating of how hard they work.
+The program converts these ratings in to a performance score and each bonus is calculated from it.
