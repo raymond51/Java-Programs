@@ -1,0 +1,130 @@
+Scenario:
+
+A program made for TV broadcasters to keep track of the Olympic information.
+
+Tasks in which it performs:
+
+>obtains user input to whether or not to display the medals won in the past year of GB
+>Uses keyboard input to acquire the amount of medal won for a particular country
+>outputs the sum of medals won this year 
+>Storing the medals into 2d array to be printed out later
+>reads data off a txt file and if the user would like to update the file
+
+
+java concepts used:
+>screen output
+>keyboard input
+>variables, expression and assignments
+>If statements
+>Records
+>getters and setters
+>Loops
+>Arrays (one dimensional and 2 dimensional)
+>abstract data types
+>nested loops
+>sort algorithm (Bubble sort)
+>File input and ouput (Buffered reader and filewriter)
+
+
+Example of display:
+
+
+Do you wanna see how many medals GB won? Press Y for yes
+Y
+                G       S       B       Total
+Great Britain   27      23      17      67
+How many people won a gold medal today?
+3
+How many people won a silver medal today?
+12
+How many people won a bronze medal today?
+32
+Total of medals won today:47
+What medals are you interested to see? gold,silver,bronze or all
+all
+the number of old and new medals won for all is: 114
+Name: GB Gold=30 Silver=35 bronze=49
+enter number of medals scored today in the order of gold, silver and bronze
+2
+3
+1
+Name: GB Gold=2 Silver=3 bronze=1
+Enter Y to add a new day
+Y
+enter number of medals scored today in the order of gold, silver and bronze
+4
+6
+7
+Name: GB Gold=4 Silver=6 bronze=7
+Enter Y to add a new day
+N
+Storing medals in array..
+displayed as gold, silver then bronze:
+        Day0
+2
+3
+1
+        Day1
+4
+6
+7
+        Day2
+        Day3
+        Day4
+        Day5
+        Day6
+        Day7
+        Day8
+        Day9
+        Day10
+        Day11
+        Day12
+        Day13
+        Day14
+
+Intialising china
+
+Intialising Brazil
+
+Intialising America
+        china
+        New Records:
+41
+12
+4
+        Old Records:
+50
+15
+20
+        Brazil
+        New Records:
+2
+6
+100
+        Old Records:
+4
+5
+90
+        America
+        New Records:
+90
+1
+1
+        Old Records:
+100
+0
+1
+        empty
+        New Records:
+0
+0
+0
+        Old Records:
+0
+0
+0
+Do you want to see medal table in order of medals won? Y/N
+Y
+China is number 3 in the world with medals won: 142
+America is number 2 in the world with medals won: 193
+Brazil is number 1 in the world with medals won: 207
