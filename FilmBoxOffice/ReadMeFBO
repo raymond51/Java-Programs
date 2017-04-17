@@ -1,0 +1,24 @@
+A program which requires user input of four different movies, this program neatly outputs the information in friendly manner.
+
+Includes: arrays,loops,abstract data types,getters and setters, and scanners.
+
+Example of display:
+
+Film for Screen 1? Now You see Me 2
+What time does it start? Hour 7
+What time does it start? Minutes after the hour 30
+Film for Screen 2? Spectre
+What time does it start? Hour 6
+What time does it start? Minutes after the hour 30
+Film for Screen 3? The BFG
+What time does it start? Hour 7
+What time does it start? Minutes after the hour 15
+Film for Screen 4? Eddie the Eagle
+What time does it start? Hour 6
+What time does it start? Minutes after the hour 0
+
+CinemaWorld Films Tonight
+Screen 1: Now You See Me 2 7:30
+Screen 2: Spectre 6:30
+Screen 3: The BFG 7:15
+Screen 4: Eddie the Eagle 6:00
