@@ -1,0 +1,22 @@
+Scenario:
+
+a program that is to be used as part of a garden bird watch conservation
+project where people watch for birds in their garden. The program will repeatly ask the user which birds were spotted and how many.
+The program should stop when the user has entered END, after which the program should display the most viewed bird in the garden.
+
+Example of display:
+
+Which bird have you seen? Robin
+How many were in your garden at once? 1
+Which bird have you seen? Magpie
+How many were in your garden at once? 2
+Which bird have you seen? Blue Tit
+How many were in your garden at once? 5
+Which bird have you seen? Kestrel
+How many were in your garden at once? 1
+Which bird have you seen? Robin
+How many were in your garden at once? 2
+Which bird have you seen? END
+
+You saw 5 Blue Tits.
+It was the most common bird seen at one time in your garden.
