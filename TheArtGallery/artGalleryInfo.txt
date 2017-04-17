@@ -1,0 +1,2 @@
+A program that gives information about paintings in an art gallery for visitors. 
+It holds details of the most popular painting in each of the four rooms that can be visited in any order. Enter any number between 1 and 4, the program will display information about that particular room. 
