@@ -1,0 +1,14 @@
+Scenario:
+
+A new Paralympic relay competition involves competitors of different disability levels making up a team.
+Runner's disablility is rated 4 times (4 different runners) with a 10 point system. If the the total runner team disability is less than 30 
+then their team is valid.
+
+
+Example of display:
+
+What is the disability class of Runner 1? 10
+What is the disability class of Runner 2? 7
+What is the disability class of Runner 3? 7
+What is the disability class of Runner 4? 6
+That team has 30 points so is legal 
